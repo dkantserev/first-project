@@ -1,2 +1,5 @@
-public static class main(){
+class  Praktikum{
+    public static void main(String[] args)
+    {
+}
 }
